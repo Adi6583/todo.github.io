@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm currently working on
 
 
 # 💻 Tech Stack:
